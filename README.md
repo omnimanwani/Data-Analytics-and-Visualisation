@@ -55,49 +55,29 @@ library(dplyr)
 ---
 
 <details>
-  <summary><strong>Assignment 2: Python-Based Data Analysis and Visualization</strong></summary>
+  <summary><strong>Assignment 2: R-Based Data Analysis and Visualization (Google Colab)</strong></summary>
 
 ### **Overview**
-This repository contains the data analysis and visualization assignment completed by **Omni Manwani (202211060)**. The notebook provides insights using Python-based data processing and visualization tools.
+This assignment involves **data analysis and visualization using R**. The notebook is implemented in **Google Colab**, making it easy to run without requiring local installations.
 
-### **Installation & Setup**
-To run this project, you need Python and Jupyter Notebook installed. You can set up the required environment by following these steps:
+### **How to Run the Code in Google Colab**
+1. Open the following Google Colab link:  
+   📌 [Open DAV2 Notebook in Google Colab](https://colab.research.google.com/drive/1ulOiaGxeQixOnPu624Sq7v9t_PuIOuYS#scrollTo=OmlPSImyKh6g)
+2. Click on **"Run All"** to execute all cells sequentially.
+3. Analyze the outputs, visualizations, and insights.
 
-#### Prerequisites
-- Python 3.x
-- Jupyter Notebook
-- Required Python libraries
+### **Features & Functionality**
+✅ **Data Import and Preprocessing**
+- Reads [Monthly Monthly Mean Dataset](https://www.data.gov.in/resource/monthly-seasonal-and-annual-maximum-temperature-1901-2019)and cleans the dataset.
+- Handles missing values and formats data types.
+- Utilizing and understanding different types of graph for data analysis and visualization.
 
-#### Installing Dependencies
-To install all required libraries, run:
-```bash
-pip install pandas numpy matplotlib seaborn
-```
+✅ **Exploratory Data Analysis (EDA)**
+- Descriptive statistics.
+- Data distribution visualizations.
 
-### **Usage**
-#### Running the Notebook
-1. Clone this repository:
-```bash
-git clone <repo-url>
-```
-2. Navigate to the project folder:
-```bash
-cd <repo-folder>
-```
-3. Open Jupyter Notebook:
-```bash
-jupyter notebook
-```
-4. Open `DAV2.ipynb` and run the cells sequentially.
-
-### **Data Analysis & Visualization Steps**
-The notebook includes:
-1. **Installing and Loading Necessary Libraries**
-2. **Loading the Dataset**
-3. **Data Cleaning and Preprocessing**
-4. **Exploratory Data Analysis (EDA)**
-5. **Visualizations using Matplotlib and Seaborn**
-6. **Conclusions and Insights**
+✅ **Data Visualization**
+- Uses **Matplotlib & Seaborn** to create meaningful visual representations.
 
 ### **Results**
 - Key findings and observations based on the dataset.
