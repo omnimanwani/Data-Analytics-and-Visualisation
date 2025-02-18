@@ -4,7 +4,7 @@ This repository contains scripts and datasets used for Data Analytics and Visual
 
 ---
 
-## 📌 Assignments
+## Assignments
 
 <details>
   <summary><strong>Assignment 1: State Wise Udyam Registration Analysis (R)</strong></summary>
@@ -21,7 +21,7 @@ The dataset includes six key fields:
 - **IMEs (UAP)**
 - **Total MSMEs**
 
-📌 Dataset Links:
+ Dataset Links:
 - [Udyam Registration Dashboard](https://dashboard.msme.gov.in/Udyam_Statewise.aspx)
 - [Udyam Registration on Data.gov.in](https://www.data.gov.in/catalog/udyam-registration-msme-registration)
 
@@ -62,7 +62,7 @@ This assignment involves **data analysis and visualization using R**. The notebo
 
 ### **How to Run the Code in Google Colab**
 1. Open the following Google Colab link:  
-   📌 [Open DAV2 Notebook in Google Colab](https://colab.research.google.com/drive/1ulOiaGxeQixOnPu624Sq7v9t_PuIOuYS#scrollTo=OmlPSImyKh6g)
+    [Open DAV2 Notebook in Google Colab](https://colab.research.google.com/drive/1ulOiaGxeQixOnPu624Sq7v9t_PuIOuYS#scrollTo=OmlPSImyKh6g)
 2. Click on **"Run All"** to execute all cells sequentially.
 3. Analyze the outputs, visualizations, and insights.
 
